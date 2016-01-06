@@ -1,0 +1,24 @@
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\obj\x86\Release\Interop.WMPLib.dll
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\obj\x86\Release\AxInterop.WMPLib.dll
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.csproj.ResolveComReference.cache
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\bin\Release\重庆三峡学院网络电视IPTV.exe
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\bin\Release\重庆三峡学院网络电视IPTV.pdb
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\bin\Release\Interop.WMPLib.dll
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\bin\Release\AxInterop.WMPLib.dll
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.MainForm.resources
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.Properties.Resources.resources
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.csproj.GenerateResource.Cache
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.exe
+F:\代码\C#\重庆三峡学院网络电视IPTV\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.pdb
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\obj\x86\Release\Interop.WMPLib.dll
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\obj\x86\Release\AxInterop.WMPLib.dll
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.csproj.ResolveComReference.cache
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.exe
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.pdb
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\bin\Release\重庆三峡学院网络电视IPTV.exe
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\bin\Release\重庆三峡学院网络电视IPTV.pdb
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\bin\Release\Interop.WMPLib.dll
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\bin\Release\AxInterop.WMPLib.dll
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.mainForm.resources
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.Properties.Resources.resources
+F:\Code\C#\重庆三峡学院网络电视IPTV - 副本\重庆三峡学院网络电视IPTV\obj\x86\Release\重庆三峡学院网络电视IPTV.csproj.GenerateResource.Cache
